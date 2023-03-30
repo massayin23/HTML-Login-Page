@@ -1,0 +1,82 @@
+//This section focuses on using embedded links as well as opening new pages when clicking on links// 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fabian is awesome</title>
+</head>
+
+<nav>
+<body>
+<h1>HTML Coding</h1>
+<h2>Future Career </h2>
+<p> Below is the career path outline</p>
+<button>Submit</button>
+</body>
+</html>
+<a href="https://discord.gg/frontend">discord Server</a>
+<a href="https://frontendsimplified.com/html/crashcourse" target="_blank"> Home
+</div>
+<section>
+<h1>To-Do List
+    <ul>
+        <li>Land $100K+ job</li>
+        <li>Finish Frontend Simplified </li>
+        <li>Network with other people in the discord server</li>
+    </ul>
+</section>
+<section>
+<h1>Land $100k+ job</h1>
+<ol>
+   <li>Finish front end Simplified</li> 
+   <li>Study for Interviews</li>
+   <li>Apply for Jobs</li>
+</ol>
+</section>
+</a>
+</a>
+
+//BElow is the login page for information input///
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Login</h1>
+    <form>
+    <div>
+        <label for="">Email</label>
+        <input type="email"/>
+    </div>
+    <hr>
+    <div>
+        <label for="">password</label>
+        <input type="password"/>
+    </div>
+    <hr>
+    <div>
+        <label for=""><b>Confirm Password</b></label>
+        <input type="password"/>
+    </div>
+    <hr>
+    <div>
+        <label for="">Age</label>
+        <input type="number"
+    </div>
+    <hr>
+    <div>
+        <label for="">Date</label>
+        <input type="date"
+    </div>
+    <button>Submit</button>
+
+
+    </form>
+</body>
+</html>
